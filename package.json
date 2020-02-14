@@ -1,6 +1,6 @@
 {
   "name": "egg-dora-contenttags",
-  "version": "1.0.2",
+  "version": "1.0.7",
   "description": "contentTag",
   "eggPlugin": {
     "name": "doraContentTags"
@@ -52,7 +52,7 @@
     "url": "git+https://github.com/doramart/egg-dora-contenttags.git"
   },
   "bugs": {
-    "url": "https://github.com/doramart/egg/issues"
+    "url": "https://github.com/doramart/egg-dora-contenttags/issues"
   },
   "homepage": "https://github.com/doramart/egg-dora-contenttags#readme",
   "author": "doramart",
